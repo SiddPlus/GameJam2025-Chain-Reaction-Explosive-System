@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/ThirdPerson/ChainReactionSystem/BP_Explosion.uasset",
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/LV/C09A17LRJJ6HO23TW1KYB8.uasset",
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/ThirdPerson/Input/Actions/IA_TriggerExplosion.uasset",
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/ThirdPerson/ChainReactionSystem/M_Bomb.uasset",
+				"D:/Portfolio/UCA/Year 2/GameJame2025/Content/ThirdPerson/ChainReactionSystem/WB_InteractionPrompt.uasset"
+			]
+		}
+	]
+}
